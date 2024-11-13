@@ -15,10 +15,10 @@ The chatbot is built to fulfill the following objectives:
 - **Backend**: Built with Flask to handle user requests, process inputs, and return AI-based responses.
 - **Model**: Utilizes the Gqor Large Language Model (LLM) to process and generate contextually relevant answers to user queries.
 
-
 ## Working Flow of the Project
+
 ![Architecture](img/architecture.jpg)
-  
+
 ## Key Features
 
 - **Empathetic Responses**: The chatbot delivers responses that are supportive and compassionate.
@@ -46,21 +46,13 @@ The chatbot is built to fulfill the following objectives:
 
 1. **Clone the repository**:
    ```bash
-   https://github.com/AbhinavKaintura/CentrixSupport.git
+   git clone https://github.com/AbhinavKaintura/CentrixSupport.git
    cd centrixsupport
-2.  **Backend Setup**:
-      cd src
+cd src
+pip install -r requirements.txt
+python flask_main.py
 
-3.    
-      pip install -r requiremnets.txt 
+npm install
+npm start
 
-4.     
-        python flask_main.py
-        
-5.  
-        npm install
 
-        
-6.  
-        npm start
-       
