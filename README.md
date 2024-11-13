@@ -44,7 +44,7 @@ The chatbot is built to fulfill the following objectives:
 
 ### Installation
 
-1. **Clone the repository**:
+ **Clone the repository**:
    ```bash
    git clone https://github.com/AbhinavKaintura/CentrixSupport.git
    cd centrixsupport
