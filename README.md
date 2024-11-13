@@ -14,6 +14,10 @@ The chatbot is built to fulfill the following objectives:
 - **Frontend**: Developed in React to provide a responsive and interactive interface.
 - **Backend**: Built with Flask to handle user requests, process inputs, and return AI-based responses.
 - **Model**: Utilizes the Gqor Large Language Model (LLM) to process and generate contextually relevant answers to user queries.
+
+
+## Working Flow of the Project
+![Architecture](img/architecture.jpg)
   
 ## Key Features
 
