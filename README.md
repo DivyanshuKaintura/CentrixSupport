@@ -48,7 +48,7 @@ The chatbot is built to fulfill the following objectives:
       cd src
 
 3.     
-        python app.py
+        py flask_main.py
         
 4.  
         npm install
