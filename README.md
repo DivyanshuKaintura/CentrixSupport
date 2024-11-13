@@ -48,11 +48,18 @@ The chatbot is built to fulfill the following objectives:
    ```bash
    git clone https://github.com/AbhinavKaintura/CentrixSupport.git
    cd centrixsupport
+   ```
+   ```bash
    cd src
    pip install -r requirements.txt
+   ```
+   ```bash
    python flask_main.py
-
-npm install
-npm start
-
+   ```
+   ```bash
+   npm install
+   ```
+   ```bash
+   npm start
+```
 
