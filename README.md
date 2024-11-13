@@ -49,7 +49,6 @@ The chatbot is built to fulfill the following objectives:
    git clone https://github.com/AbhinavKaintura/CentrixSupport.git
    cd centrixsupport
 This command installs all necessary Python packages for the backend, as listed in the requirements.txt file.
-   ```
    ```bash
    cd src
    pip install -r requirements.txt
