@@ -116,7 +116,6 @@
   cursor: not-allowed;
 }
 
-/* Optional: Add animation */
 .disclaimer-modal {
   animation: modal-in 0.3s ease-out;
 }
