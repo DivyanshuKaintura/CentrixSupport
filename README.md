@@ -53,6 +53,7 @@ This command installs all necessary Python packages for the backend, as listed i
    ```bash
    cd src
    pip install -r requirements.txt
+This command launches the Flask backend server. Once started, the server listens for incoming requests from the frontend and handles them by processing user inputs and generating AI-based responses. The Flask application also connects with the LLM to deliver contextually relevant answers to user queries.
    ```
    ```bash
    python flask_main.py
