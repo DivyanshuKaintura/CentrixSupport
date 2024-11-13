@@ -61,5 +61,4 @@ The chatbot is built to fulfill the following objectives:
    ```
    ```bash
    npm start
-```
 
