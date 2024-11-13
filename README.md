@@ -51,13 +51,16 @@ The chatbot is built to fulfill the following objectives:
 2.  **Backend Setup**:
       cd src
 
-3.     
-        py flask_main.py
+3.    
+      pip install -r requiremnets.txt 
+
+4.     
+        python flask_main.py
         
-4.  
+5.  
         npm install
 
         
-5.  
+6.  
         npm start
        
