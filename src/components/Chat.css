@@ -159,6 +159,8 @@ body {
   text-align: center;
   padding: 15px;
   line-height: 1.5;
+  font-style: italic;
+  font-weight: bold;
 }
 
 .footer {
@@ -186,10 +188,3 @@ body {
 .file-upload-label:hover {
   background: #C8E6C9;
 }
-
-/* @media (max-width: 768px) {
-
-  .resources-section {
-      display: none;
-  }
-} */
