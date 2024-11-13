@@ -59,9 +59,13 @@ This command launches the Flask backend server. Once started, the server listens
    ```bash
    python flask_main.py
    ```
+
+This command installs all necessary Node.js dependencies for the frontend, as specified in the package.json file
    ```bash
    npm install
    ```
+
+This command starts the React development server, allowing you to run and test the chatbot interface in your browser. The frontend connects with the backend Flask server, enabling a seamless user experience as the chatbot processes and responds to user messages in real time.
    ```bash
    npm start
 
