@@ -141,8 +141,8 @@ function Chat() {
                     </div>
                     <div className="resource-card">
                         <div className="disclaimer">
-                            Remember: While I'm here to support you, I'm not a replacement for professional mental health care. If you're in crisis, please reach out to emergency services or a crisis helpline.
-                        </div>
+“Sustainability starts with inner peace; when we nurture our mental health, we contribute to a balanced world that thrives on well-being, empathy, and mindful living.” <br/>
+                        – Maya Rivers                        </div>
                     </div>
                 </div>
             </div>
