@@ -131,10 +131,12 @@ function Chat() {
                     <div className="resource-card">
                         <h2>Helpful Resources</h2>
                         <div className="resource-links">
-                            <a href="#" className="resource-link">24/7 Crisis Helpline</a>
-                            <a href="#" className="resource-link">Meditation Guides</a>
-                            <a href="#" className="resource-link">Find a Therapist</a>
-                            <a href="#" className="resource-link">Anxiety Management Tools</a>
+                            <a href="https://nimhans.ac.in/" className="resource-link">24/7 Crisis Helpline</a>
+                            <a href="https://www.mindfullivingcounselingservices.com/blog/2019/7/1/guided-mediation-for-anxiety-calm-place " className="resource-link">Meditation Guides</a>
+                            <a href="https://www.google.com/search?sca_esv=29b9c0aed541efd5&sxsrf=ADLYWIIroo9zO7MygtNQgBX9pT2-I5m8NQ:1731475345028&q=anxiety+meditation+tools,+where+I+can+find+the+therapist,+can+u+provide+me+the+link&tbm=vid&source=lnms&fbs=AEQNm0CvspUPonaF8UH5s_LBD3JPX4RSeMPt9v8oIaeGMh2T2D1DyqhnuPxLgMgOaYPYX7OtOF4SxbM4YPsyWUMdeXRPZhCDnq-5Z-yoSNSuzzuqe1v23K9kPKRz1uyB_14kHSEb3OOmrYWRnFZzaeewHJSWNzpSd0sqOzXm-3Nu7MIUhHvGLeeL_VnavWJuW4KMA6IKkUrm2eZ54mtifdwjIRnavw6O6w&sa=X&ved=2ahUKEwj9uIKnyNiJAxWlTmwGHcrFAncQ0pQJegQIDxAB&biw=1536&bih=730&dpr=1.25#fpstate=ive&vld=cid:8b0af89a,vid:CJIXbibQ0jI,st:0" className="resource-link">Find a Therapist</a>
+                            <a href="https://positivepsychology.com/anxiety-tools/" className="resource-link">Anxiety Management Tools</a>
+                            <a href="https://www.youtube.com/watch?v=oeQfRtiY-ZM" className="resource-link">The 6 Phase Guided Meditation | Vishen Lakhiani</a>
+
                         </div>
                     </div>
                     <div className="resource-card">
